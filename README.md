@@ -2,7 +2,7 @@
 
 I build AI automation systems — things that actually run, solve real problems, and connect LLMs with real-world workflows.
 
-**My stack:** Python · FastAPI · n8n · OpenAI API · LangChain
+**My stack:** Python · FastAPI · n8n · OpenAI API
 
 **What I build:**
 - AI agents that make decisions and take actions automatically
