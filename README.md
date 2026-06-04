@@ -21,8 +21,9 @@
 
 | Project | What it does |
 | --- | --- |
+| [ai-receipt-expense-tracker](https://github.com/SakoA10/ai-receipt-expense-tracker) | Send a receipt photo or PDF on WhatsApp → AI reads the vendor, date, total, and tax and logs it to Google Sheets, with an instant reply. |
+| [data-insights-report](https://github.com/SakoA10/data-insights-report) | Turns any CSV into a clean, single-file HTML report — metrics, trends, charts, and outliers — from one Python command. |
 | [ai-job-monitor-bot](https://github.com/SakoA10/ai-job-monitor-bot) | Scans remote job boards daily, scores each role with AI, and sends only the strong matches to Telegram. |
-| [cv-parser](https://github.com/SakoA10/cv-parser) | Drop a CV in a folder → AI extracts structured data straight into a spreadsheet. No manual entry. |
 | [ai-content-repurposer](https://github.com/SakoA10/ai-content-repurposer) | Turns one idea into a LinkedIn post, three tweets, and an Instagram caption — emailed back in seconds. |
 | [ai-cv-generator-n8n](https://github.com/SakoA10/ai-cv-generator-n8n) | Builds a clean, formatted CV from a form, improving the wording without inventing facts. |
 | [job-application-workflow](https://github.com/SakoA10/job-application-workflow) | Form-to-spreadsheet intake with duplicate detection and automatic confirmation emails. |
